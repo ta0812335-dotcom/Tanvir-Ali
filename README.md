@@ -5,7 +5,7 @@
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%); padding: 60px 20px; border-radius: 48px; margin: 20px 0; box-shadow: 0 20px 40px -15px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05); border: 1px solid rgba(59,130,246,0.3);">
-    <h1 style="color: #FFFFFF; font-size: 58px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; background: linear-gradient(135deg, #FFFFFF, #93C5FD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Muhammad Ali Anjum</h1>
+    <h1 style="color: #FFFFFF; font-size: 58px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; background: linear-gradient(135deg, #FFFFFF, #93C5FD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Tanvir Ali</h1>
     <p style="color: #94A3B8; font-size: 24px; margin: 16px 0 0; font-weight: 500; letter-spacing: 0.5px;">Full Stack Developer · MERN Expert · AI & NLP Engineer</p>
     <div style="margin-top: 24px;">
     </div>
@@ -41,7 +41,7 @@
       <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;">
         <div style="font-size: 32px; margin-bottom: 12px;">📫</div>
         <strong style="color:#3B82F6; font-size: 18px;">Email</strong><br />
-        <a href="mailto:anjumbalgharii@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">anjumbalgharii@gmail.com</a>
+        <a href="mailto:tanvirli564431@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">tanvirli564431@gmail.com</a>
       </td>
     </tr>
    </table>
@@ -160,8 +160,8 @@
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 30px 20px; margin: 20px auto; width: 92%; border: 1px solid #334155;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanvir Ali&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir Ali&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="180" />
   </div>
 </div>
 
