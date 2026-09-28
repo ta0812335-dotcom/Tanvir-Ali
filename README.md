@@ -167,19 +167,19 @@
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 92%; border: 1px solid #334155;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ali-Anjum&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir Ali&theme=radical&hide_border=true&background=0F172A&stroke=3B82F6&ring=60A5FA&fire=3B82F6&currStreakNum=CBD5E1&sideNums=60A5FA&sideLabels=CBD5E1" />
   </div>
 </div>
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 95%; border: 1px solid #334155;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali-Anjum&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Tanvir Ali&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
   </div>
 </div>
 
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 20px; margin: 20px auto; width: 95%; border: 1px solid #334155;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ali-Anjum&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir Ali&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="100%" />
   </div>
 </div>
 
@@ -191,10 +191,10 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Muhammad-Ali-Anjum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:tanvirli56514431@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Tanvir-Ali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Tanvir-Ali-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/Ali khan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <br />
@@ -202,7 +202,7 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
-<img src="https://visit-counter.vercel.app/count?username=Muhammad-Ali-Anjum&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" /><p style="color: #94A3B8; margin-top: 20px;">
+<img src="https://visit-counter.vercel.app/count?username=Tanvir Ali&label=Profile%20Views&color=3B82F6&icon=github" alt="Profile Views" /><p style="color: #94A3B8; margin-top: 20px;">
   ⚡ <strong>Always building, always learning</strong> open to collaborations on AI & full‑stack projects.<br />
   💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
 </p>
